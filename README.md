@@ -19,9 +19,9 @@ One wrong move and… Game Over! ☠️
 
 ---
 
-## 📸 Game Preview
+## 📸 Treasure Island
 
-![Game Preview](game_image.png)
+(game_image.avif)
 
 
 ---
